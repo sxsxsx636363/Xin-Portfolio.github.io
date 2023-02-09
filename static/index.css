@@ -1,0 +1,97 @@
+.navbar-brand{
+    font-weight: bold;
+  }
+  .form-group{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .card{
+    margin-top: 20px;
+  }
+  .card-title{
+    margin-top: 30px;
+  }
+  
+  .padboth30{
+    padding: 30px 30px;
+  }
+  
+  .box {
+    width: 95%;
+    margin: auto;
+    padding: 30px 0px;
+    margin-top: 30px;
+    /*border: 1px solid rgb(228,228,228);*/
+    text-align: center;
+  }
+  
+  #register_button{
+    margin-right: 20px;
+  }
+  
+  #reg_button{
+    margin-right: 20px;
+  }
+  #login_button{
+    margin-right: 50px;
+  }
+
+  .homebox{
+    width: 95%;
+    margin: auto;
+    padding: 15px 10px; 
+    border: 2px dashed rgb(228,228,228);  
+    text-align: center;
+   }
+
+   .aboutmebox{
+    width: 100%;
+    margin: auto;
+    
+    text-align: center;
+   }
+   .aboutme1box{
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+   }
+   .picturebox{
+    width: 100%;
+    margin: auto;
+   }
+.top20px{
+   margin-top: 30px;
+}
+.top5{
+   margin-top: 5%;
+}
+.pad15{
+   padding: 0px 15px;
+}
+.padlr30{
+  padding: 0px 30px;
+}
+.padtop5{
+    padding: 5px 0px;
+ }
+.padtop10{
+   padding: 10px 0px;
+}
+.padtop15{
+    padding: 15px 0px;
+ }
+.padboth15{
+  padding: 15px 15px;
+}
+.padboth10{
+  padding: 10px 10px;
+}
+.padboth20{
+  padding: 20px 20px;
+}s
+
+.center{
+  align-self: center;
+}
+
